@@ -3,6 +3,8 @@
 This streamlit app uses Prophet and is deployed in a docker container and has the intention for a blueprint to use AWS app runner.
 
 
+https://mining-facts.medium.com/modeling-and-visualize-counted-bicycles-with-prophet-and-streamlit-io-edfead931a70
+
 ## 1. Data
 
 * Choose and prepare data.
